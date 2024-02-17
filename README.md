@@ -1,6 +1,6 @@
 XCredit - despre creditul rapid nebancar, un produs financiar tot mai accesat de români
 
-Acest articol este realizat de XCredit. Află mai multe despre XCredit la pagina https://x.credit/ro/despre-noi/
+Acest articol este realizat de XCredit. Află mai multe despre XCredit la pagina https://xcredit.ro/despre-noi/
 
 I. Introducere
 1.1 Ce sunt creditele rapide nebancare
@@ -53,7 +53,7 @@ Flexibilitatea oferită de IFN-uri în ceea ce privește condițiile de împrumu
 VI. Concluzie
 În concluzie, creditele rapide nebancare constituie un produs financiar tot mai popular în rândul românilor, datorită rapidității, accesibilității și flexibilității pe care le oferă. Cu toate acestea, este esențial ca potențialii clienți să înțeleagă toate condițiile și costurile asociate cu aceste produse, pentru a face o alegere informată și a evita eventualele capcane ale datoriilor. De asemenea, este important să ne amintim că, deși creditele nebancare pot oferi un acces mai rapid la fonduri, acestea vin adesea cu rate ale dobânzii mai mari, care pot duce la costuri totale mai mari pe termen lung. Prin urmare, este esențial să analizăm cu atenție toate opțiunile disponibile înainte de a lua o decizie.
 
-Pagina oficială XCredit România: https://x.credit/ro/
+Pagina oficială XCredit România: https://xcredit.ro/
 
 <!---
 x-credit/x-credit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
